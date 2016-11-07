@@ -1,0 +1,1 @@
+rename XX.BMP  XX.JPG
